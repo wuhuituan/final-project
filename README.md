@@ -6,7 +6,9 @@ Python's position in data science is not only because of numpy, scipy, pandas, s
 In Python, the most used data visualization tool is matplotlib, in addition to many other optional visualization toolkits, including the following major categories:
 
 1 Matplotlib and toolkit based on matplotlib: the drawing function of the matplotlib API in pandas, seaborn, networkx, etc.
+
 2 Visualization tools based on JavaScript and d3.js: plotly, etc. These tools can display dynamic graphs with certain interactivity.
+
 3 Other visualization tools that provide Python call interfaces: OpenGL, GraphViz, etc. These tools have their own characteristics and are   widely used in specific fields.
 
 
