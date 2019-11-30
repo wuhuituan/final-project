@@ -23,4 +23,5 @@ plt.ylabel('Temp',fontsize=12)
 fig.autofmt_xdate()
 plt.tick_params(axis='both',which='major',labelsize=10)
 plt.xticks(dates[::1])
+
 plt.show()
