@@ -14,6 +14,7 @@ Follow are overall thought process:
 
 4 Filter and organize the data in the database for the initial display of data visualization (use of Matplotlib library).
 
-
+In code part,we use python to scrape data form weather.com,specificlly 10 days forecast.Then we organize data and show 
+them in a figure.
 
 
