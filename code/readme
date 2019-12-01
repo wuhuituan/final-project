@@ -1,8 +1,11 @@
-Python's position in data science is not only because of numpy, scipy, pandas, scikit-learn, which are efficient and easy to use, and the interface is unified scientific computing package. Its powerful data visualization tool is also an important part. 
-In Python, the most used data visualization tool is matplotlib, in addition to many other optional visualization toolkits, including the following major categories:
+The python package we need to install:
+-requests
+-BeautifulSoup(or beautifulsoup4)
+-lxml
+-pandas
+-matplotlib
 
-1 Matplotlib and toolkit based on matplotlib: the drawing function of the matplotlib API in pandas, seaborn, networkx, etc;
+The scrape.py is used for requesting data form weather.com/tenday/l/...,that is 10 days label page on the website.
+Then it will creat a .cvs profile named 'Future Weather' to storage responesed data.
 
-2 Visualization tools based on JavaScript and d3.js: plotly, etc. These tools can display dynamic graphs with certain interactivity;
-
-3 Other visualization tools that provide Python call interfaces: OpenGL, GraphViz, etc. These tools have their own characteristics and are   widely used in specific fields.
+The polt.py is used for showing the Higest/Lowest temperature in 2 future weeks.
